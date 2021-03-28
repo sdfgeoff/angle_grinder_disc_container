@@ -19,11 +19,19 @@ PARAMETER_OPTIONS = {
     "115x20": {"disc_diameter": 115, "container_height": 20, "circle_resolution": 64, "enable_dividers": 0.0},
     "115x20_dividers": {"disc_diameter": 115, "container_height": 20, "circle_resolution": 64, "enable_dividers": 1.0},
     "115x40": {"disc_diameter": 115, "container_height": 40, "circle_resolution": 64, "enable_dividers": 0.0},
+    "115x40_dividers": {"disc_diameter": 115, "container_height": 40, "circle_resolution": 64, "enable_dividers": 1.0},
     "115x60": {"disc_diameter": 115, "container_height": 60, "circle_resolution": 64, "enable_dividers": 0.0},
+    "115x60_dividers": {"disc_diameter": 115, "container_height": 60, "circle_resolution": 64, "enable_dividers": 1.0},
     "125x20": {"disc_diameter": 125, "container_height": 20, "circle_resolution": 64, "enable_dividers": 0.0},
+    "125x20_dividers": {"disc_diameter": 125, "container_height": 20, "circle_resolution": 64, "enable_dividers": 1.0},
     "125x40": {"disc_diameter": 125, "container_height": 60, "circle_resolution": 64, "enable_dividers": 0.0},
+    "125x40_dividers": {"disc_diameter": 125, "container_height": 60, "circle_resolution": 64, "enable_dividers": 1.0},
     "125x60": {"disc_diameter": 125, "container_height": 60, "circle_resolution": 64, "enable_dividers": 0.0},
+    "125x60_dividers": {"disc_diameter": 125, "container_height": 60, "circle_resolution": 64, "enable_dividers": 1.0},
     "150x40": {"disc_diameter": 150, "container_height": 40, "circle_resolution": 64, "enable_dividers": 0.0},
+    "150x40_dividers": {"disc_diameter": 150, "container_height": 40, "circle_resolution": 64, "enable_dividers": 1.0},
+    "150x60": {"disc_diameter": 150, "container_height": 60, "circle_resolution": 64, "enable_dividers": 0.0},
+    "150x60_dividers": {"disc_diameter": 150, "container_height": 60, "circle_resolution": 64, "enable_dividers": 1.0},
 }
 
 
